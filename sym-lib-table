@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "QN8007B-Breakout-Board-Symbol-Library")(type "KiCad")(uri "${KIPRJMOD}/KiCad Project Libraries/QN8007B-Breakout-Board-Symbol-Library.kicad_sym")(options "")(descr ""))
+)
