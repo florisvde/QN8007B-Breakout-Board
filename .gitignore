@@ -29,5 +29,5 @@ fp-info-cache
 *.csv
 
 # (Output folder for) Gerbers and PDFs
-**/output
+**/production
 *.zip
